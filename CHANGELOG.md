@@ -1,8 +1,9 @@
 Changelog Google Analytics
 ==========================
 
-##version 2.1.3 - xx/xx/xxxx
+##version 2.1.4 - xx/xx/xxxx
 
+* Removed getConnection() calls
 * Modified *for* attribute from label tag in admin.php
 
 ##version 2.1.2 - 14/09/2011
